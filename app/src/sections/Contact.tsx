@@ -100,8 +100,8 @@ export default function Contact() {
     },
     {
       icon: Github,
-      label: 'github.com/ALIfrom51',
-      href: 'https://github.com/ALIfrom51',
+      label: 'github.com/AliRebbouh',
+      href: 'https://github.com/AliRebbouh',
       hoverColor: '#f0f0f5',
     },
     {

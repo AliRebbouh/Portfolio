@@ -105,7 +105,7 @@ export default function GitHubSection() {
             className="text-xl font-medium text-[#f0f0f5]"
             style={{ fontFamily: "'JetBrains Mono', monospace" }}
           >
-            @ALIfrom51
+            @AliRebbouh
           </p>
 
           {/* Stats */}
@@ -178,7 +178,7 @@ export default function GitHubSection() {
 
           {/* CTA */}
           <a
-            href="https://github.com/ALIfrom51"
+            href="https://github.com/AliRebbouh"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 mt-8 px-8 py-3.5 rounded-xl text-sm font-medium text-[#f0f0f5] transition-all duration-300"

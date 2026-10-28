@@ -14,4 +14,10 @@
       "@/*": ["./src/*"]
     }
   }
+  
+  {
+  "compilerOptions": {
+    "noUnusedLocals": false
+     }
+  }
 }

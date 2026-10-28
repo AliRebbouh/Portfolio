@@ -8,7 +8,7 @@ const projects = [
       'A comprehensive platform for managing student internships. Built with Flask backend and Docker containerization for seamless deployment and scalability.',
     image: '/images/project-gestiona.jpg',
     tech: ['Flask', 'Docker', 'MySQL', 'HTML/CSS','AWS EC2'],
-    github: 'https://github.com/ALIfrom51/Internship/tree/main',
+    github: 'https://github.com/AliRebbouh/Internship/tree/main',
     demo: 'http://52.55.28.0',
   },
   {
@@ -17,7 +17,7 @@ const projects = [
       'An automatited agent to manage the clients comments, review analysis with AI-powered sentiment classification, real-time dashboard, and persistent storage.',
     image: '/images/project-docker.jpg',
     tech: ['Docker', 'n8n' , 'APIs' , 'automation','Github actions','JWS Authentification'],
-    github: 'https://github.com/ALIfrom51/n8n-reviews',
+    github: 'https://github.com/AliRebbouh/n8n-reviews',
     demo: null,
   },
   {
@@ -26,7 +26,7 @@ const projects = [
       'A simulated network environment for a small enterprise, demonstrating networking concepts and configurations using Cisco Packet Tracer.',
     image: "/images/Capture d'écran 2026-09-17 163109.png",
     tech: ['Cisco Packet Tracer', 'DHCP', 'TCP/IP', 'OSPF', 'VLAN', 'ACL', 'Firewall', 'HSRP', 'DMZ'],
-    github: 'https://github.com/ALIfrom51/Small_Entreprise_Network',
+    github: 'https://github.com/AliRebbouh/Small_Entreprise_Network',
     demo: null,
   },
   {
@@ -35,7 +35,7 @@ const projects = [
       'SOAR (Security Orchestration, Automation and Response) pipeline, from detection to decision-making, focusing in a faster time of execution and avoiding the Alerte Fatigue.',
     image: '/images/DevSecOps_SOAR.png',
     tech: ['GitHub Actions', 'Docker', 'Security Scanning', 'AWS EC2', 'n8n', 'Kali Linux', 'Wazuh', 'API', 'Ubuntu', 'Bash', 'MITTRE ATT&CK', 'Lambda AWS', 'API Gateway AWS'],
-    github: 'https://github.com/ALIfrom51/soc_automation',
+    github: 'https://github.com/AliRebbouh/soc_automation',
     demo: null,
   },
 ];

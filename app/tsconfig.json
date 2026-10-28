@@ -13,11 +13,5 @@
     "paths": {
       "@/*": ["./src/*"]
     }
-  }
-  
-  {
-  "compilerOptions": {
-    "noUnusedLocals": false
-     }
-  }
+  }  
 }

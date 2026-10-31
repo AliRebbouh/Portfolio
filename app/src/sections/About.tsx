@@ -180,9 +180,9 @@ export default function About() {
                 </div>
                 <span style={{ color: 'rgba(255,255,255,0.1)' }}>|</span>
                 <div className="text-center">
-                  <p className="text-lg font-semibold text-[#f0f0f5]">Docker</p>
+                  <p className="text-lg font-semibold text-[#f0f0f5]">Cloud</p>
                   <p className="text-[10px] uppercase tracking-wider" style={{ color: 'rgba(240,240,245,0.4)' }}>
-                    &amp; AWS
+                    &amp; Containers
                   </p>
                 </div>
               </div>
